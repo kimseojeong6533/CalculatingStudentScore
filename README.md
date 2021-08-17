@@ -36,7 +36,9 @@ Good School 학교가 있습니다. 이 학교에는 5명의 학생들이 수업
 ![image](https://user-images.githubusercontent.com/61004279/129698699-e15114f1-7c35-47d8-bdc2-79b4400d396f.png)
 
 
-- 학점정책 설계
+- 학점정책 설계 : 
+
+
 ![image](https://user-images.githubusercontent.com/61004279/129698857-82703fd7-1625-43be-ad2b-830ad2e86dc0.png)
 
 
