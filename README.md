@@ -1,7 +1,7 @@
 # CalculatingStudentScore
 이클립스를 활용해 학생정보와 과목별 점수를 생성하고, 학점 정책에 따라 학점 산출하기
 
-###<문제 정의>
+### <문제 정의>
 Good School 학교가 있습니다. 이 학교에는 5명의 학생들이 수업을 듣습니다. 과목은 국어와 수학이 있고, 각 학생은 두 과목을 모두 수강합니다.
 
   - 전공은 컴퓨터공학과 국어국문학 두 가지가 있습니다. 컴퓨터공학과 학생은 수학이 필수과목이고, 국어국문학과 학생은 국어가 필수 과목입니다.
@@ -37,7 +37,7 @@ Good School 학교가 있습니다. 이 학교에는 5명의 학생들이 수업
 ![image](https://user-images.githubusercontent.com/61004279/129698857-82703fd7-1625-43be-ad2b-830ad2e86dc0.png)
 
 
-###결과 : 
+### 결과 : 
 ![image](https://user-images.githubusercontent.com/61004279/129699015-6020e9d3-565f-4ecd-9fcb-7720c813a6ea.png)
 
 
